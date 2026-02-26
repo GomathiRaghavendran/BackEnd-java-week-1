@@ -33,6 +33,8 @@ public class Variables
         double myDecimal = 5.99;
         boolean myBoolean = true;
 
+
+
         // println variables to the console
         System.out.println("Integer: " + myNumber);
         System.out.println("String: " + myText);
